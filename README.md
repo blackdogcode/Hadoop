@@ -1,4 +1,4 @@
-# Hadoop Tools
+# 0. Tools
 [Virtual Box](https://www.virtualbox.org/wiki/Downloads)\
 [Hortonworks Sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html)
 
